@@ -35,3 +35,7 @@
 </div>
 
 ###
+
+<p align="left">👋 Hi, I'm Konstantin Aksenov<br>Frontend Developer | Angular • TypeScript • JavaScript<br><br>I’m a frontend developer focused on creating responsive, user-friendly single-page applications using Angular and modern web technologies. With strong expertise in JavaScript, TypeScript, and SCSS, I build clean and maintainable code structures that follow best practices and deliver intuitive UI/UX experiences.<br><br>Through my training at the TÜV-certified Developer Akademie and more than 12 hands-on projects, I’ve gained solid experience working both independently and in agile teams using Scrum and Kanban.<br><br>📍 Based in Paraguay – open for remote opportunities<br>🛠️ Tech Stack: Angular, TypeScript, JavaScript, HTML, SCSS, Firebase<br>🔗 Portfolio: portfolio.dev2k.org<br><br>🔧 What I offer:<br>Clean, object-oriented code with modular structure<br><br>Modern UI/UX design from Figma to code<br><br>Angular front-end architecture with integrated services<br><br>Transparent collaboration via Scrum or Kanban workflows<br><br>Reliable delivery with clear communication<br><br>Let’s build something amazing together.<br>📫 Contact me: Konstantin.Aksenov@dev2k.org</p>
+
+###
