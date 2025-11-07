@@ -55,12 +55,12 @@ I'm a **Full-Stack Developer** passionate about building **scalable web applicat
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KosMaster87&show_icons=true&theme=vue&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosMaster87&layout=compact&theme=vue&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KosMaster87&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosMaster87&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KosMaster87&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=KosMaster87&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
