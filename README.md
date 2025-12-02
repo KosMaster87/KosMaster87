@@ -50,14 +50,6 @@ I'm a **Full-Stack Developer** passionate about building **scalable web applicat
 🌐 **Portfolio**: [portfolio.dev2k.org](https://portfolio.dev2k.org)  
 📧 **Contact**: Konstantin.Aksenov@dev2k.org
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KosMaster87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosMaster87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
 
 ---
 
