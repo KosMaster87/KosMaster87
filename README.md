@@ -7,9 +7,8 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
+### Tech Stack & Tools
 
-**Frontend & Backend**
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo" />
@@ -19,7 +18,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo" />
 </div>
 
-**Infrastructure & DevOps**
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo" />
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" height="40" alt="nginx logo" />
@@ -30,26 +28,26 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
 I'm a **Full-Stack Developer** passionate about building **scalable web applications** from UI to infrastructure. My expertise spans modern frontend development with **Angular & TypeScript** and robust backend solutions with **Node.js, Express & MySQL**.
 
 **What I bring to the table:**
-- 🏗️ **Full-Stack Development**: End-to-end application development
-- 🗄️ **Scalable Architecture**: Multi-tenant systems & database design
-- 🚀 **DevOps Practices**: Production deployment with Nginx & PM2
-- 🔒 **Security Focus**: Authentication, validation & secure APIs
-- 🎯 **Clean Code**: Modular, maintainable & documented codebases
+
+- **Full-Stack Development**: End-to-end application development
+- **Scalable Architecture**: Multi-tenant systems & database design
+- **DevOps Practices**: Production deployment with Nginx & PM2
+- **Security Focus**: Authentication, validation & secure APIs
+- **Clean Code**: Modular, maintainable & documented codebases
 
 **Recent Highlights:**
+
 - Built a **multi-tenant task management app** with per-user database architecture
 - Developed **RESTful APIs** with secure authentication & email services
 - Implemented **production DevOps** setup with automated deployments
 
-📍 **Based in Paraguay** – Open for remote opportunities worldwide  
-🌐 **Portfolio**: [portfolio.dev2k.org](https://portfolio.dev2k.org)  
-📧 **Contact**: Konstantin.Aksenov@dev2k.org
-
+**Portfolio**: [portfolio.dev2k.org](https://portfolio.dev2k.org)
+**Contact**: Konstantin.Aksenov@dev2k.org
 
 ---
 
