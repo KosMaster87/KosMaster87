@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Konstantin Aksenov</h1>
+<h1 align="center">I'm Konstantin Aksenov</h1>
 <h3 align="center">Full-Stack Developer | JavaScript • Angular • Node.js</h3>
 
 <div align="center">
@@ -6,8 +6,6 @@
 </div>
 
 ---
-
-### Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
