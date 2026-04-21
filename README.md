@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Scalable+Web+Applications;Clean+Code+Architecture" alt="Typing SVG" />
 </div>
 
----
-
 ### About
 
 I build full-stack web applications with a clear focus on reliability, maintainability, and real product value.
