@@ -1,42 +1,67 @@
-<h1 align="center">Hi, I'm Konstantin Aksenov</h1>
-<h3 align="center">Full-Stack Developer | Angular, TypeScript, Node.js</h3>
+<!-- ══════════════════════════ HEADER ══════════════════════════ -->
+
+<h1 align="center">Hi, I'm Konstantin Aksenov 👋</h1>
+<h3 align="center">Full-Stack Developer · Angular · TypeScript · Node.js</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Scalable+Web+Applications;Clean+Code+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&pause=1000&color=7ED321&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;Scalable+Web+Applications;Clean+Code+Architecture;Self-Hosted+Infrastructure" alt="Typing SVG" />
 </div>
 
-### About
+<p align="center">
+  I build full-stack web applications end to end — from Angular frontends to secure Node.js
+  APIs and the production infrastructure that keeps them running. I care about code that a
+  team can still extend cleanly a year from now, not just code that ships today.
+</p>
 
-I build full-stack web applications with a clear focus on reliability, maintainability, and real product value.
+<div align="center">
+  <a href="https://portfolio.dev2ksoftware.com"><img src="https://img.shields.io/badge/Portfolio-portfolio.dev2ksoftware.com-7ED321?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="mailto:konstantin@dev2ksoftware.com"><img src="https://img.shields.io/badge/Contact-konstantin%40dev2ksoftware.com-1F2937?style=for-the-badge" alt="Contact" /></a>
+</div>
 
-My work combines Angular and TypeScript on the frontend with Node.js-based backend services, clean APIs, and production-ready deployment workflows.
-
-I enjoy turning complex requirements into simple, robust solutions that teams can extend without friction.
+<br />
 
 ---
 
-### Tech Stack & Tools
+<!-- ══════════════════════════ BODY ══════════════════════════ -->
+
+<div align="center">
+  <a href="https://dev2ksoftware.com">
+    <img src="assets/dev2k-banner.png" alt="Dev2K Software" width="640" />
+  </a>
+</div>
+
+<p align="center">
+  <strong>Dev2K Software</strong> is my own practice: production-ready web applications with
+  scalable architecture, secure APIs, and self-hosted infrastructure end to end — from the
+  first line of code to the server it runs on.
+</p>
+
+<p align="center">
+  <a href="https://dev2ksoftware.com">dev2ksoftware.com</a>
+</p>
 
 <br />
+
+---
+
+<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
+
+### Tech Stack & Tools
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,angular,nodejs,express,postgres,firebase,supabase,netlify,git,linux&theme=light&perline=10" height="48" alt="core skill icons" />
-</div><br />
+</div>
 
 <p align="center">
   Render, VPS/IaaS setup, Nginx, PM2, CI-oriented Git workflows, VS Code, GitHub Copilot, Claude AI
-</p><br />
+</p>
 
 <p align="center">
   See my pinned repositories below for focused project context and implementation details.
-</p><br />
+</p>
+
+<br />
 
 <div align="center">
-
-**Portfolio**: [Portfolio.Dev2K.org](https://portfolio.dev2k.org)
-**Contact**: Konstantin.Aksenov@Dev2K.org
-
-</div><br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KosMaster87&color=4B5563&style=flat-square&label=Profile+Views" height="28" alt="Profile Views" />
-</div><br />
+  <img src="https://komarev.com/ghpvc/?username=KosMaster87&color=7ED321&style=flat-square&label=Profile+Views" height="28" alt="Profile Views" />
+</div>
